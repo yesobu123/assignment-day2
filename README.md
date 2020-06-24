@@ -18,3 +18,5 @@ def gen_arm():
 values = gen_arm()
 for i in values:
 	print(i)
+
+o/p - 4782969
